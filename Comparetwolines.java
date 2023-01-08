@@ -3,7 +3,7 @@ package com.bridzelabz.linecomparision;
 public class Comparetwolines {
      static Math math;
 	public static void main(String[] args) {
-		double x1 = 12;
+		double x1 = 24;
 		double y1 = 8;
 		double x2 = 1.5;
 		double y2 = 7;
